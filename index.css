@@ -1,11 +1,7 @@
-#my_btn {
-    color:red;
-}
-
-body { 
-    color: green;
-}
-
-.my_class {
-    color: aqua;
-}
+#my_form_wrapper {
+    width: 50%;
+    margin: auto;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+  }
